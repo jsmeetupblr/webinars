@@ -3,7 +3,8 @@
 ## Table of Contents
 
 ### Joining a team (signup Process)
-
+ * Invite link
+ * Demo of signup process
 
 ### Apps
  * Web App 
@@ -27,3 +28,8 @@
  * Private Channels
  * Archiving
  * Preferences
+ * Apps and integrations
+   * Github
+
+### For Developers
+ * Webhooks and APIs
